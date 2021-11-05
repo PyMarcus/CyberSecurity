@@ -1,2 +1,2 @@
 # CyberSecurity
-Ferramentas básicas de pentesting.
+Ferramentas básicas de pentest.
